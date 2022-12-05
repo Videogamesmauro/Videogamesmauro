@@ -6,7 +6,6 @@
 
     👋 Hi, I’m @Videogamesmauro
     👀 I’m a student based in Italy.
-    🌱 I’m currently learning C/C++
     💞️ Now I have much time for work.
     📫 How to reach me : @maurosthenics on instagram
 
